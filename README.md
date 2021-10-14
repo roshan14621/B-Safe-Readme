@@ -18,10 +18,10 @@ Children are the future of the world and keeping them safe is our priority. As s
 
 ## Frontend
 
-* [location](https://pub.dev/packages/location)
-* [http](https://pub.dev/packages/http)
-* [workmanager](https://pub.dev/packages/workmanager)
-* [maps_launcher](https://pub.dev/packages/maps_launcher)
+* [location]
+* [http]
+* [workmanager]
+* [maps_launcher]
 
 ## Participants
 
